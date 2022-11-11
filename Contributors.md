@@ -35,6 +35,7 @@ sudeep
 - [ignasPlace](https://github.com/IgnasPlace)
 - [Muhammad-Fiqri] (https://github.com/Muhammad-Fiqri)
 pnordboj
+- [Vijay Kumar Yadav](https://github.com/vij6)
 - [Ajayi Olamide](https://github.com/prodbyola)
 - [chenqy9](https://github.com/chenqy9)
 - [asmaSamano](https://github.com/aaldaghar)
